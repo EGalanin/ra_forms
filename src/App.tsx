@@ -1,6 +1,6 @@
 import React from 'react';
 import Hex2rgb from './components/Hex@rgb/Hex2rgb';
-// import Steps from './components/Steps';
+import Interface from './components/Steps/Interfase/Interfase';
 import './App.css';
 
 function App(): JSX.Element {
@@ -29,7 +29,7 @@ function App(): JSX.Element {
           </div>
         </div>
 
-        {/* <div className={'main__item task _container'} id={'task2'}>
+        <div className={'main__item task _container'} id={'task2'}>
           <header className={'task__header'}>
             <h3 className={'task__title'}>4.2. Учёт тренировок</h3>
             <nav className={'task__menu menu'}>
@@ -46,9 +46,9 @@ function App(): JSX.Element {
             </nav>
           </header>
           <div className={'task__body task__body_task2'}>
-            <Steps />
+            <Interface />
           </div>
-        </div> */}
+        </div>
       </main>
     </div>
   );

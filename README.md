@@ -1,3 +1,7 @@
+![CI](https://github.com/EGalanin/ra_forms/actions/workflows/web.yml/badge.svg)
+
+[Github Pages](https://egalanin.github.io/ra_forms/ "Ссылка на Github Pages")
+
 <a name="top"></a>
 
 # 4. Домашнее задание к лекции «Формы»
