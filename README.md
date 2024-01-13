@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0qminqbqmakse42b?svg=true)](https://ci.appveyor.com/project/EGalanin/ra-forms)
+
 ![CI](https://github.com/EGalanin/ra_forms/actions/workflows/web.yml/badge.svg)
 
 [Github Pages](https://egalanin.github.io/ra_forms/ "Ссылка на Github Pages")
